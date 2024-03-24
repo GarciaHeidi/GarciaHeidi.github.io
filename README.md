@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>TIC - Devoir 1</title>
+    TIC - Devoir 1
     <meta charset="UTF-8">
     <meta name="Heidi Garcia" content="MATIM/TIC">
     <link rel="stylesheet" type="text/css" href="styles.css">
