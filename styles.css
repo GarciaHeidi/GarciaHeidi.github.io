@@ -13,17 +13,18 @@ h1 {
     text-align: left;
     color: black;
     animation-name: animation2D;
+    /*animation-name: animation2D;
     animation-duration: 6s;
-    animation-iteration-count: initial;
+    animation-iteration-count: initial;*/
 }
 
-@keyframes animation2D{
+/*@keyframes animation2D{
     0% {color: black}
     25% {color: yellow;}
     50% {color: blue;}
     100% {color: red;
     transform: rotateX(180deg);}
-}
+}*/
 
 h2 {
     color: black;
