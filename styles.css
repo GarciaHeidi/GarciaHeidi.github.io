@@ -55,7 +55,7 @@ a {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: large;
     color: #008bff;
-    text-decoration: none;
+    text-decoration:underline;
 }
 
 ul {
