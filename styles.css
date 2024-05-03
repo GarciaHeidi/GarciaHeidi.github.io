@@ -57,7 +57,7 @@ a {
 
 ul {
     color: #000000;
-    list-style-type: disc;
+    list-style-type:none;
     text-align: center;
 }
 
